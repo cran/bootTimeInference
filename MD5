@@ -1,0 +1,14 @@
+cc287615e92665ebb152c2ec17f7edab *DESCRIPTION
+7c988d8b89a25358af12ee487643e65d *NAMESPACE
+b9a2dec9922c6f8e672b5d2fcc653a85 *R/RcppExports.R
+3631c2c661ca69032999aba998f23d4f *R/old.R
+9fa258ce3709788f05e83404a0dd1ef1 *build/vignette.rds
+9a034f7b39f747ea4399eca6a5620326 *inst/doc/jef_2008pdf.pdf
+0a8f8f527b8d8beba5e9b6252be20b99 *inst/doc/jef_2008pdf.pdf.asis
+2f7d732d9543c997cc750c2302753d58 *man/blockSizeCalibrate.Rd
+72725d83f94535a2fee3b08b5463c1a7 *man/bootTimeInference.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+1aab523cbf8015dcc9365f4311a174e3 *src/RcppExports.cpp
+cc216ceda9f1b72bfd144c84adfcf51b *src/boot_time_inference.cpp
+0a8f8f527b8d8beba5e9b6252be20b99 *vignettes/jef_2008pdf.pdf.asis
